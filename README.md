@@ -5,5 +5,5 @@
 *git clone https://github.com/Proc3ssa/colorme.git* \
 *cd colorme* \
 ```
-*bash start.sh*
+bash start.sh
 ```
