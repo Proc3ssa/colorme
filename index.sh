@@ -14,7 +14,7 @@ echo -e "          \e[5mby processor 2022\e[25m"
 echo 
 
 echo "${BLUE}-------------------------------------"
-echo "${BLUE}| ${YELLOW}1) iSH(iOS)    ${MAGENTA}2) Termux(android) ${BLUE}|"
+echo "${BLUE}| ${YELLOW}1) iSH(iOS)    ${MAGENTA}2) Termux(android) ${BLUE}|
 echo "${BLUE}| ${ORANGE}3) Ubuntu      ${RED}4) git bash        ${BLUE}|"
 echo "${BLUE}-------------------------------------${DEFAULT_FG}"
 read -p "Select your terminal: " terminal 
